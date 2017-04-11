@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>M&M data</title>
+<title>MnM data</title>
 </head>
 <body>
 
-<h1>My M&M data</h1>
+<h1>My MnM data</h1>
 <p>My first paragrap.</p>
 
 </body>
